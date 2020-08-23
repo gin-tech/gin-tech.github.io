@@ -1,0 +1,43 @@
+[
+{
+	"uri": "https://gin-tech.github.io/soft/bash/",
+	"title": "bash",
+	"tags": [],
+	"description": "",
+	"content": "bash bashのメモ\n"
+},
+{
+	"uri": "https://gin-tech.github.io/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://gin-tech.github.io/",
+	"title": "Gin Wiki",
+	"tags": [],
+	"description": "",
+	"content": "Wiki 今時用のメモ書きです。\n"
+},
+{
+	"uri": "https://gin-tech.github.io/memo/",
+	"title": "Memo",
+	"tags": [],
+	"description": "",
+	"content": "メモ書き 技術系のメモ書きを残していきます。 サイトはHugoで作成。 PC、ソフトウェア、ハードウェア、科学ネタなどを中心に自分向けのWiki。\n"
+},
+{
+	"uri": "https://gin-tech.github.io/soft/",
+	"title": "Soft",
+	"tags": [],
+	"description": "",
+	"content": "Software Tips ソフトウェア関連\n"
+},
+{
+	"uri": "https://gin-tech.github.io/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
