@@ -1,6 +1,12 @@
 {
   "name": "Rails in 3D space",
-  "external_url": "https://ipfs.io/ipfs/QmZkwSuAYnevHNomGgwTyYhFaKgUu3Zq9UPRyPU4kcYtiW/",
+  "description": "There are some rails consisted of line and box in 3D space.",
   "image": "ipfs://QmNfsbbUVFo58oAesG4zkeZiy7bh6WR95XsKse4wCViTQ8",
-  "animation_url": "ipfs://QmZkwSuAYnevHNomGgwTyYhFaKgUu3Zq9UPRyPU4kcYtiW/"
+  "animation_url": "https://ipfs.io/ipfs/QmZkwSuAYnevHNomGgwTyYhFaKgUu3Zq9UPRyPU4kcYtiW",
+  "external_url": "https://ipfs.io/ipfs/QmZkwSuAYnevHNomGgwTyYhFaKgUu3Zq9UPRyPU4kcYtiW",
+  "attributes": [
+    {"trail_type": "artist"
+     "value": "gin"
+    }
+  ]
 }
